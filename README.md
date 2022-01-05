@@ -31,11 +31,11 @@ Concevoir et écrire un programme en Scala, implémentant la spécification ci-d
 ### TEST 
 Le fichier suivant est fourni en entrée : 
 ‘‘‘
-5 5 \n
-1 2 N \n
-GAGAGAGAA \n
-3 3 E 
-AADAADADDA 
+5 5 <br/>
+1 2 N <br/>
+GAGAGAGAA <br/>
+3 3 E <br/>
+AADAADADDA <br/>
 '''
 On attend le résultat suivant (position finale des tondeuses) : 
 Tondeuse 1 : 
@@ -49,43 +49,43 @@ Tondeuse 2 :
 
 ### RESULTAT FOURNI PAR LE PROGRAMME 
 ‘‘‘
-Above, the content of the instruction file : 
-5 5
-1 2 N
-GAGAGAGAA
-3 3 E
-AADAADADDA
+Above, the content of the instruction file : <br/>
+5 5<br/>
+1 2 N<br/>
+GAGAGAGAA<br/>
+3 3 E<br/>
+AADAADADDA<br/>
  
-The size of the garden is : 5,5.
+The size of the garden is : 5,5.<br/>
  
 Mower : 1
 ********************************************************************************
 ********************************************************************************
-At the beginning, the location of the mower is : (1,2) and his direction is N.
-The mower turns left, his location is : (1, 2, W).
-The mower goes straight ahead, his location is : (0, 2, W).
-The mower turns left, his location is : (0, 2, S).
-The mower goes straight ahead, his location is : (0, 1, S).
-The mower turns left, his location is : (0, 1, E).
-The mower goes straight ahead, his location is : (1, 1, E).
-The mower turns left, his location is : (1, 1, N).
-The mower goes straight ahead, his location is : (1, 2, N).
-The mower goes straight ahead, his location is : (1, 3, N).
+At the beginning, the location of the mower is : (1,2) and his direction is N.<br/>
+The mower turns left, his location is : (1, 2, W).<br/>
+The mower goes straight ahead, his location is : (0, 2, W).<br/>
+The mower turns left, his location is : (0, 2, S).<br/>
+The mower goes straight ahead, his location is : (0, 1, S).<br/>
+The mower turns left, his location is : (0, 1, E).<br/>
+The mower goes straight ahead, his location is : (1, 1, E).<br/>
+The mower turns left, his location is : (1, 1, N).<br/>
+The mower goes straight ahead, his location is : (1, 2, N).<br/>
+The mower goes straight ahead, his location is : (1, 3, N).<br/>
  
  
 Mower : 2
 ********************************************************************************
 ********************************************************************************
-At the beginning, the location of the mower is : (3,3) and his direction is E.
-The mower goes straight ahead, his location is : (4, 3, E).
-The mower goes straight ahead, his location is : (5, 3, E).
-The mower turns right, his location is : (5, 3, S).
-The mower goes straight ahead, his location is : (5, 2, S).
-The mower goes straight ahead, his location is : (5, 1, S).
-The mower turns right, his location is : (5, 1, W).
-The mower goes straight ahead, his location is : (4, 1, W).
-The mower turns right, his location is : (4, 1, N).
-The mower turns right, his location is : (4, 1, E).
-The mower goes straight ahead, his location is : (5, 1, E).
+At the beginning, the location of the mower is : (3,3) and his direction is E.<br/>
+The mower goes straight ahead, his location is : (4, 3, E).<br/>
+The mower goes straight ahead, his location is : (5, 3, E).<br/>
+The mower turns right, his location is : (5, 3, S).<br/>
+The mower goes straight ahead, his location is : (5, 2, S).<br/>
+The mower goes straight ahead, his location is : (5, 1, S).<br/>
+The mower turns right, his location is : (5, 1, W).<br/>
+The mower goes straight ahead, his location is : (4, 1, W).<br/>
+The mower turns right, his location is : (4, 1, N).<br/>
+The mower turns right, his location is : (4, 1, E).<br/>
+The mower goes straight ahead, his location is : (5, 1, E).<br/>
 ‘‘‘
 
