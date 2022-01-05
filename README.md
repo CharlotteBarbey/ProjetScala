@@ -47,6 +47,8 @@ Tondeuse 2 :
 ```
 5 1 E 
 ```
+### Exécution 
+Lancer le script Run.scala pour que le programme s'exécute. 
 
 ### Résultat fourni par le programme
 ```
