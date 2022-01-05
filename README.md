@@ -3,7 +3,7 @@ M2 MoSEF - Projet Scala <br/>
 BARBEY Charlotte et PRUTKI Lucas <br/>
 
 ## Projet Scala - 2021/2022 
-
+<p align="justify">Votre texte justifié
 La société MowItNow a décidé de développer une tondeuse à gazon automatique, destinée aux surfaces rectangulaires. 
 La tondeuse peut être programmée pour parcourir l'intégralité de la surface. La position de la tondeuse est représentée par une combinaison de coordonnées (x,y) et d'une lettre indiquant l'orientation selon la notation cardinale anglaise (N,E,W,S). La pelouse est divisée en grille pour simplifier la navigation. 
 Par exemple, la position de la tondeuse peut être « 0, 0, N », ce qui signifie qu'elle se situe dans le coin inférieur gauche de la pelouse, et orientée vers le Nord. 
@@ -25,7 +25,7 @@ Chaque tondeuse se déplace de façon séquentielle, ce qui signifie que la seco
 
 Lorsqu'une tondeuse achève une série d'instruction, elle communique sa position et son 
 orientation. 
-
+</p>
 ### OBJECTIF 
 Concevoir et écrire un programme en Scala, implémentant la spécification ci-dessus et passant le test ci-après. 
 
