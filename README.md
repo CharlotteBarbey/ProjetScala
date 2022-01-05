@@ -27,10 +27,10 @@ Lorsqu'une tondeuse achève une série d'instruction, elle communique sa positio
 orientation. 
 </p>
 
-### OBJECTIF 
+### Objectif
 Concevoir et écrire un programme en Scala, implémentant la spécification ci-dessus et passant le test ci-après. 
 
-### TEST 
+### Test
 Le fichier suivant est fourni en entrée : 
 ```
 5 5 
@@ -40,6 +40,7 @@ GAGAGAGAA
 AADAADADDA 
 ```
 On attend le résultat suivant (position finale des tondeuses) : <br/>
+
 Tondeuse 1 : 
 ```
 1 3 N 
