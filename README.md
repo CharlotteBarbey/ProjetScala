@@ -26,6 +26,7 @@ Chaque tondeuse se déplace de façon séquentielle, ce qui signifie que la seco
 Lorsqu'une tondeuse achève une série d'instruction, elle communique sa position et son 
 orientation. 
 </p>
+
 ### OBJECTIF 
 Concevoir et écrire un programme en Scala, implémentant la spécification ci-dessus et passant le test ci-après. 
 
