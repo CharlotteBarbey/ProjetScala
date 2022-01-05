@@ -38,7 +38,7 @@ GAGAGAGAA
 3 3 E 
 AADAADADDA 
 ```
-On attend le résultat suivant (position finale des tondeuses) : 
+On attend le résultat suivant (position finale des tondeuses) : <br/>
 Tondeuse 1 : 
 ```
 1 3 N 
@@ -48,7 +48,7 @@ Tondeuse 2 :
 5 1 E 
 ```
 
-### RESULTAT FOURNI PAR LE PROGRAMME 
+### Résultat fourni par le programme
 ```
 Above, the content of the instruction file : 
 5 5
