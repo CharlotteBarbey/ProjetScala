@@ -30,25 +30,25 @@ Concevoir et écrire un programme en Scala, implémentant la spécification ci-d
 
 ### TEST 
 Le fichier suivant est fourni en entrée : 
-‘‘‘
+```
 5 5 <br/>
 1 2 N <br/>
 GAGAGAGAA <br/>
 3 3 E <br/>
 AADAADADDA <br/>
-'''
+```
 On attend le résultat suivant (position finale des tondeuses) : 
 Tondeuse 1 : 
-'''
+```
 1 3 N 
-'''
+```
 Tondeuse 2 : 
-'''
+```
 5 1 E 
-'''
+```
 
 ### RESULTAT FOURNI PAR LE PROGRAMME 
-‘‘‘
+```
 Above, the content of the instruction file : <br/>
 5 5<br/>
 1 2 N<br/>
@@ -87,5 +87,5 @@ The mower goes straight ahead, his location is : (4, 1, W).<br/>
 The mower turns right, his location is : (4, 1, N).<br/>
 The mower turns right, his location is : (4, 1, E).<br/>
 The mower goes straight ahead, his location is : (5, 1, E).<br/>
-‘‘‘
+
 
