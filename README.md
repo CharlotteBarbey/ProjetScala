@@ -1,6 +1,5 @@
 
-M2 MoSEF - Projet Scala <br/>
-BARBEY Charlotte et PRUTKI Lucas <br/>
+M2 MoSEF - BARBEY Charlotte et PRUTKI Lucas <br/>
 
 ## Projet Scala - 2021/2022 
 <p align="justify">Votre texte justifié
