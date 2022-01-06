@@ -50,7 +50,7 @@ Tondeuse 2 :
 ```
 ### Exécution 
 3 scripts : 
-* **ParserFile** : cette classe permet de récupérer la taille du jardin, les instructions de chaque tondeuse 'commands' et la position de chaque tondeuse `location.
+* **ParserFile** : cette classe permet de récupérer la taille du jardin, les instructions de chaque tondeuse `commands et la position de chaque tondeuse `location`.
 * **LawnMower** : cette classe permet à la tondeuse de bouger dans le jardin. Elle contient plusieurs fonctions qui permettent de tourner, d'avancer, d'exécuter l'ensemble des ordres et d'indiquer la position de la tondeuse.
 
 * **Run** : C'est un objet qui permet de vérifier que le fichier d'instructions soit bien renseigné et de lancer les tondeuses selon les instructions fournis.
